@@ -14,7 +14,7 @@
 
 int main(int argc, char *argv[])
 {
-	
+	printk("xxxxkkkk\n");
 	
 	return 0;
 }
