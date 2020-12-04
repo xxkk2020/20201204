@@ -14,7 +14,6 @@
 
 int main(int argc, char *argv[])
 {
-	printf("hello world\n");
 	print("hello develop\n");
 	return 0;
 }
