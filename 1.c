@@ -14,12 +14,7 @@
 
 int main(int argc, char *argv[])
 {
-<<<<<<< HEAD
 	print("hello develop\n");
-=======
-	printk("xxxxkkkk\n");
-	
->>>>>>> develop
 	return 0;
 }
 
