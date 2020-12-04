@@ -15,7 +15,6 @@
 int main(int argc, char *argv[])
 {
 	printf("xxxxkkkk\n");
-	printf("hello main\n");	
 	return 0;
 }
 
